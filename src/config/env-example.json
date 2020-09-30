@@ -1,0 +1,10 @@
+{
+    "kafkaConfig" : {
+        "hostname" : "localhost",
+        "port" : "9092"
+    },
+
+    "mongodbConfig" : {
+        "hostname" : "mongodb+srv://hostname/dabase_name"
+    }
+}
